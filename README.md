@@ -1,10 +1,10 @@
 # OS-Docker_Assignment
 
-Team Members
-Yash Doshi   1MS18CS139
+# Team Members
+Yash Doshi   1MS18CS139\
 Shivank Tej  1MS18CS114
 
-Assignment3:
+# Assignment3:
 wordpress - mysql app
 
 contianer1(mysql)
