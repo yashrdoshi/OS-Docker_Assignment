@@ -42,9 +42,3 @@ Note: Bring up the application on an user defined bridge network
 Create a docker-compose file to bring up the application
 
 # ScreenShots
-
-![wordpress](wordpress.png)
-
-![database](database.png)
-
-![terminal](terminal.png)
